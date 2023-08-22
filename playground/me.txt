@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aditya Bhatt
-Skills: HTML, CSS, JS, C, C++, Python, Flask, Problem Solving
-Email: adithegreat2002@gmail.com
-{{/user}}
